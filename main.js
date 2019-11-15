@@ -3,5 +3,5 @@ var y = 3;
 
 var z = x + y
 
-System.out.println(z + "Dogs");
+System.out.println(z + "Ducks");
 
